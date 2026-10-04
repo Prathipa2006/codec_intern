@@ -8,8 +8,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-
-
 # Environment variables / secrets
 .env
 
@@ -20,3 +18,6 @@ Thumbs.db
 # IDE settings
 .vscode/
 .idea/
+
+# Dataset
+fraud_detection/creditcard.csv
